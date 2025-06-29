@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Segoe UI', sans-serif;
+  background-color: #fef6e4;  
+  color: #001858;             
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace;
+  color: #f582ae;             
+}
+
+a {
+  color: #8bd3dd;            
+  text-decoration: none;
+}
